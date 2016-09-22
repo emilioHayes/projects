@@ -124,6 +124,7 @@ body {
 
 .encabezados
 {
+	background-color:green;
 	text-align:center;
 	font-size:15px;
 	//font-weight:bold;
